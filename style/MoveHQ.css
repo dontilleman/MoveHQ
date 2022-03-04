@@ -9,3 +9,19 @@ div#wrap {
     margin: 0px auto;
     padding: 2.5em;
 }
+form#login {
+    width: 90%;
+    margin: 0px auto;
+}
+form#login input{
+    display: inline-block;
+}
+
+form#login label {
+    width: 250px;
+    display: block;
+}
+div#error {
+    color: #FF0000;
+    font-weight: bold;
+}
